@@ -6,9 +6,9 @@
 ### 方案一 独享
 
 独享一组核心交换机，最大支持12个SET，适用于百台服务器以上的集群场景
-![独享](/image/private.png)
+![独享](/images/private.png)
 
 ### 方案二 共享
 统一管理的核心交换机集群，无需独立负担成本，单个用户支持最多接入2个SET
-![独享](/image/share.png)
+![独享](/images/share.png)
 

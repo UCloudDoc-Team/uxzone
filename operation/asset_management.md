@@ -8,7 +8,7 @@
 ## 用量分析
 * 对机柜状态、机柜容量（U位）、服务器运行状态（基于IPMI）进行可视化分析
 * 展示资源拓扑图，并可查询详细列表
-![用量分析](/image/assetmanagement.png)
+![用量分析](/images/assetmanagement.png)
 
 
 

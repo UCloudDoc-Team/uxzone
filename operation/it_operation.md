@@ -6,11 +6,11 @@
 * 远程重启：对服务器进行重启操作
 * KVM：对服务器进行远程登录
 
-![远程运维](/image/it_operation.png)
+![远程运维](/images/it_operation.png)
 
 ## 监控告警
 * 硬件监控采集：基于IPMI对服务器硬件状态进行采集
 * 日志监控采集：对日志进行分析，提取异常信息进行告警
 * 支持消息订阅方式开启告警，异常及时通知用户
 
-![监控告警](/image/monitoring.png)
+![监控告警](/images/monitoring.png)

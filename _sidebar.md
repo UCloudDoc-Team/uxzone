@@ -1,5 +1,3 @@
-<div class="sidebar_title icon-product__xzone"> 金翼专区 UXZone</div> 
-
 * [概览](/uxzone/README)
 * 产品简介
     * [什么是金翼专区](/uxzone/introduction/uxzone)          
